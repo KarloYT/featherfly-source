@@ -1,0 +1,2 @@
+on-message: '&f[&4FeatherFly 2&f] &aFly mode enabled.'
+off-message: '&f[&4FeatherFly 2&f] &aFly mode disabled.'

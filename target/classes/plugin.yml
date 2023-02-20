@@ -1,0 +1,8 @@
+name: FeatherFly
+version: '0.1-ALPHA'
+main: me.karlodevelopingstudios.featherfly.FeatherFly
+api-version: 1.19
+prefix: [ FeatherFly ]
+authors: [ KarloCavlovic, KarloDevleopingStudio ]
+description: This is the official FeatherFly plugin
+website: https://www.youtubekarlo.live/home/
